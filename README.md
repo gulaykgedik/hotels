@@ -5,40 +5,42 @@ Hotels is a hotel management application where users can search, filter, add, an
 🚀 Project Features
 -----
 
-Hotel Filtering:
+* Hotel Filtering:
 
-Search hotels by location
+- Search hotels by location
 
-Search hotels by name
+- Search hotels by name
 
-Sort hotels by price and rating
+- Sort hotels by price and rating
 
-Add & Delete Hotels:
+* Add & Delete Hotels:
 
-Add a new hotel (Hotel name, location, address, description, amenities, rating, price, availability)
+- Add a new hotel (Hotel name, location, address, description, amenities, rating, price, availability)
 
-Delete added hotels
+- Delete added hotels
 
 🛠 Technologies & Libraries Used
 ----
 
-React - User interface
+- React - User interface
 
-Tailwind CSS - Styling
+- TypeScript - Static type checking
 
-React Router DOM - Page navigation
+- Tailwind CSS - Styling
 
-@tanstack/react-query - Data management
+- React Router DOM - Page navigation
 
-Formik - Form management
+- @tanstack/react-query - Data management
 
-Yup - Form validation
+- Formik - Form management
 
-Axios - API requests
+- Yup - Form validation
 
-React Icons - Icon library
+- Axios - API requests
 
-React Toastify - Notifications
+- React Icons - Icon library
+
+- React Toastify - Notifications
 
 
 
